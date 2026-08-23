@@ -5,7 +5,7 @@ A small LangChain project that turns short product descriptions into structured 
 The generator uses Gemini to create:
 - A short title
 - A caption under 280 characters
-- 3–5 hashtags
+- 3-5 hashtags
 - Alt-text
 - An Arabic translation of the caption
 
@@ -42,6 +42,6 @@ The notebook was tested with:
 
 ## Files
 
-- `langchain_social_post.ipynb` — Colab notebook
-- `posts.csv` — 3 generated social media posts
-- `screenshots/` — screenshots of the notebook, structured output, and CSV
+- `langchain_social_post.ipynb` - Colab notebook
+- `posts.csv` - 3 generated social media posts
+- `screenshots/` - screenshots of the notebook, structured output, and CSV
